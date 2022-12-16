@@ -1,0 +1,268 @@
+html{
+    position: relative;
+    min-height: 100%;
+}
+body{
+    margin: 0px;
+}
+.color1{
+    margin-top: -90px;
+    height: 745px;
+    width: 1536px;
+    background-color: #6a09ff;
+    z-index: 1;
+}
+.ake{
+    margin-top: 50px;
+}
+.logo-fire{
+    margin-left: -400px;
+    display: inline-block;
+}
+.logo-button{
+    color: white;
+    margin-top: 90px;
+    margin-left: 700px;
+    z-index: 2;
+}
+.drop{
+    margin-top: 50px;
+    margin-right: 100px;
+    display: inline-block;
+}
+.home{
+    margin-top: 50px;
+    margin-left: 200px;
+    display: inline-block;
+}
+.services{
+  margin-left: 50px;
+  display: inline-block;
+
+}
+.product{
+    display: inline-block;
+    margin-left: 50px;
+  
+}
+.contact{
+    margin-left: 50px;
+    margin-bottom: 40px;
+    display: inline-block;
+
+}
+.droptxt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 30px;
+}
+.hometx{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: medium;
+}
+.servicestx{
+    
+    font-family: 'Quicksand', sans-serif;
+    font-weight: medium;
+}
+.producttx{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: medium;
+}
+.contacttx{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: medium;
+}
+
+.sing-in{
+    margin-top: -90px;
+    margin-left: 500px;
+}
+.singin{
+    height: 40px;
+    width: 90px;
+    border-radius: 30px;
+    background-color: #ff5f60;
+    border: none;
+    color: white;
+    font-size: 15px;
+}
+.cubes{
+    margin-left: 300px;
+    margin-top: 200px;
+}
+.main-text{
+    color: white;
+    font-weight: bold;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 50px;
+}
+.ne-main-text{
+    margin-top: -40px;
+    color: white;
+    font-family: 'IBM Plex Sans', sans-serif; 
+}
+.cubes-people{
+    margin-top: -260px;
+    float: right;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+.Read-More{
+    height: 40px;
+    width: 110px;
+    border-radius: 30px;
+    background-color: #ff5f60;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+.Box-shadow{
+    border-radius: 10px;
+    margin-top: 90px;
+    margin-left: 290px;
+    height: 250px;
+    width: 350px;
+    background-color: #1f3148;
+    z-index: 1; 
+}
+.Box-email{
+   border-radius: 10px;
+   margin-top: -240px;
+   margin-left: 290px;
+   height: 250px;
+   width: 350px;
+   background-color: #ff5f60;
+   z-index: 2;
+}
+.Ap{
+    margin-left: 338px;
+    margin-top: -240px;
+}
+.ap{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+.Input{
+    padding: 0;
+    margin-left: 342px;
+    margin-top: 20px;
+
+}
+.input{
+    height: 32px;
+    border-radius: 20px 0px 0px 20px;
+    border: none;
+}
+.Btn-email{
+    margin-top: -18px;
+    margin-left: 508px;
+
+}
+.btn-email{
+    background-color: #1f3148;
+    margin-top: -16px;
+    height: 34px;
+    width: 50px;
+    border-radius: 0px 20px 20px 0px;
+    border: none;
+}
+
+.tx{
+    padding:0;
+    margin-top: 50px;
+    margin-left: 350px;
+    font-size: 20px;
+    color: white;
+    font-weight: lighter;
+    font-family: 'Poppins', sans-serif;
+}
+.Text-pos{
+    float: right;
+    margin-right: 250px;
+}
+.text-pos{
+    font-size: 13px;
+    text-align: center;
+    color: gray;
+    font-family: 'Open Sans', sans-serif;
+}
+.orange-text{
+    color: orange;
+    font-size: 13px;
+    margin-left: 125px; 
+    font-family: 'Poppins', sans-serif;
+
+}
+.people{
+    margin-left: 100PX;
+    margin-top: 270px;
+}
+.TextMain{
+ float: right;
+ margin-top: -550px;
+}
+.textMain{
+    margin-right: 250px;
+    text-align:left;
+    font-family: 'Raleway', sans-serif;
+}
+.txtxt{
+    color: gray;
+    margin-top: -400px;
+    margin-right: 65px;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    float: right;
+
+}
+.get{
+    float: right;
+    margin-right: 550px;
+    margin-top: -230px;
+    height: 40px;
+    width: 120px;
+    border-radius: 30px;
+    background-color: #ff5f60;
+    border: none;
+    color: white;
+    font-size: 15px;
+}
+.chel{
+    margin-top: 100px;
+    margin-right: 160px;
+    float: right;
+}
+.fjrfrif-rre{
+    margin-top: 110px;
+    margin-left: 190px;
+    text-align:left;
+    font-family: 'Raleway', sans-serif;
+}
+.mcmcmo-frfrf{
+    color: gray;
+    margin-left: 190px;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+.gets{
+    margin-top: 40px;
+    margin-left: 180px;
+    height: 40px;
+    width: 120px;
+    border-radius: 30px;
+    background-color: #ff5f60;
+    border: none;
+    color: white;
+    font-size: 15px;
+}
+.ree{
+    margin-left: 25% ;
+    margin-top: 250px;
+}
+.ckas{
+    margin-top: 100px;
+}
